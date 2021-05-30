@@ -53,3 +53,7 @@ When all above criteria are met, buy action will be performed automatically usin
 
 - Run `npm install`
 - Run the Selenium code using `npm run start`
+
+## Buy Now
+   This script is using `Buy Now` button instead of `Add to Basket` or `Add to Cart` button on product page. 
+Please make sure to enable `1-Click` on your Amazon account by selecting default delivery address and default payment method.
